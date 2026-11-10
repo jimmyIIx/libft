@@ -6,7 +6,7 @@
 /*   By: nippolit <nippolit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/22 13:26:38 by nippolit          #+#    #+#             */
-/*   Updated: 2024/05/14 16:58:17 by nippolit         ###   ########.fr       */
+/*   Updated: 2026/11/10 17:13:57 by nippolit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -26,4 +26,3 @@ void	*ft_calloc(size_t nmemb, size_t size)
 	ft_bzero(res, nmemb * size);
 	return (res);
 }
-// alloue la mémoire pour un tableau de "nmemb" éléments de "size" octets

@@ -6,7 +6,7 @@
 /*   By: nippolit <nippolit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/22 13:27:49 by nippolit          #+#    #+#             */
-/*   Updated: 2024/05/13 16:43:25 by nippolit         ###   ########.fr       */
+/*   Updated: 2026/11/10 17:16:45 by nippolit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,4 +27,3 @@ int	ft_strncmp(const char *s1, const char *s2, size_t n)
 	}
 	return (0);
 }
-//  Comparer deux chaînes de caractères

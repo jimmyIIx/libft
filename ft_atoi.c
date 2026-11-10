@@ -6,7 +6,7 @@
 /*   By: nippolit <nippolit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/22 13:22:15 by nippolit          #+#    #+#             */
-/*   Updated: 2025/07/23 19:35:38 by nippolit         ###   ########.fr       */
+/*   Updated: 2026/11/10 17:13:46 by nippolit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -40,4 +40,3 @@ int	ft_atoi(const char *str)
 	}
 	return (nbr * sign);
 }
-// Convertir une chaîne de caractères en une valeur de type int

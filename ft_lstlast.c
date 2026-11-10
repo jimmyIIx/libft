@@ -6,7 +6,7 @@
 /*   By: nippolit <nippolit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/07 18:39:04 by nippolit          #+#    #+#             */
-/*   Updated: 2024/05/13 13:12:47 by nippolit         ###   ########.fr       */
+/*   Updated: 2026/11/10 17:15:05 by nippolit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,4 +24,3 @@ t_list	*ft_lstlast(t_list *lst)
 	}
 	return (lst);
 }
-// Renvoie le dernier élément de la liste.

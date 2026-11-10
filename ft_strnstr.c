@@ -6,7 +6,7 @@
 /*   By: nippolit <nippolit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/25 16:28:48 by nippolit          #+#    #+#             */
-/*   Updated: 2024/05/13 16:46:42 by nippolit         ###   ########.fr       */
+/*   Updated: 2026/11/10 17:16:50 by nippolit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -35,5 +35,3 @@ char	*ft_strnstr(const char *s1, const char *s2, size_t len)
 	}
 	return (NULL);
 }
-// Trouver la première occurrence d'une sous-chaîne dans une chaîne principale
-// 

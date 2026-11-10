@@ -6,7 +6,7 @@
 /*   By: nippolit <nippolit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/22 13:27:12 by nippolit          #+#    #+#             */
-/*   Updated: 2024/05/13 13:15:10 by nippolit         ###   ########.fr       */
+/*   Updated: 2026/11/10 17:15:31 by nippolit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,4 +27,3 @@ int	ft_memcmp(const void *s1, const void *s2, size_t n)
 	}
 	return (0);
 }
-//  Comparer deux blocs de mémoire

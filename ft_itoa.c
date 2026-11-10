@@ -6,7 +6,7 @@
 /*   By: nippolit <nippolit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/06 16:48:14 by nippolit          #+#    #+#             */
-/*   Updated: 2024/08/23 15:02:38 by nippolit         ###   ########.fr       */
+/*   Updated: 2026/11/10 17:14:37 by nippolit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -55,10 +55,3 @@ char	*ft_itoa(int n)
 	}
 	return (str);
 }
-// convertir nombre en caractere
-/*
-int main()
-{
-	printf("teste %s \n", ft_itoa(42));
-}
-*/

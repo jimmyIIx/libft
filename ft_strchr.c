@@ -6,7 +6,7 @@
 /*   By: nippolit <nippolit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/25 15:42:53 by nippolit          #+#    #+#             */
-/*   Updated: 2024/05/13 13:58:46 by nippolit         ###   ########.fr       */
+/*   Updated: 2026/11/10 17:13:34 by nippolit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -29,4 +29,3 @@ char	*ft_strchr(const char *s, int c)
 	}
 	return (NULL);
 }
-// Rechercher la première occurrence d'un caractère dans une chaine

@@ -6,7 +6,7 @@
 /*   By: nippolit <nippolit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/29 13:21:51 by nippolit          #+#    #+#             */
-/*   Updated: 2024/05/14 16:58:09 by nippolit         ###   ########.fr       */
+/*   Updated: 2026/11/10 17:16:19 by nippolit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -37,4 +37,3 @@ char	*ft_strjoin(char const *str1, char const *str2)
 	result[i + j] = '\0';
 	return (result);
 }
-// Concaténer plusieurs chaînes de caractères en une seule

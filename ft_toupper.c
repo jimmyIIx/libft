@@ -6,7 +6,7 @@
 /*   By: nippolit <nippolit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/22 13:28:03 by nippolit          #+#    #+#             */
-/*   Updated: 2024/05/13 16:44:18 by nippolit         ###   ########.fr       */
+/*   Updated: 2026/11/10 17:17:20 by nippolit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,4 +20,3 @@ int	ft_toupper(int c)
 	}
 	return (c);
 }
-// Convertit la lettre en majuscule

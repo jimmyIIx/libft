@@ -6,7 +6,7 @@
 /*   By: nippolit <nippolit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/29 13:45:14 by nippolit          #+#    #+#             */
-/*   Updated: 2024/05/13 16:43:58 by nippolit         ###   ########.fr       */
+/*   Updated: 2026/11/10 17:17:03 by nippolit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -33,5 +33,3 @@ char	*ft_strtrim(char const *s1, char const *set)
 	}
 	return (ft_substr(s1, start, end - start + 1));
 }
-
-// supprimer les espaces au début et à la fin d'une chaîne de caractere

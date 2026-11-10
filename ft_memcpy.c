@@ -6,7 +6,7 @@
 /*   By: nippolit <nippolit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/22 13:27:19 by nippolit          #+#    #+#             */
-/*   Updated: 2024/05/13 13:15:33 by nippolit         ###   ########.fr       */
+/*   Updated: 2026/11/10 17:15:38 by nippolit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,10 +24,3 @@ void	*ft_memcpy(void *dest, const void *src, size_t n)
 	}
 	return (dest);
 }
-// Copier un bloc de mémoire d'une source vers une destination
-/*
- trois arguments : 
-                   - un pointeur vers destination (*dest), 
-				   - un pointeur vers la source (*src),
-				   - le nombre d'octets à remplir (n).
-*/

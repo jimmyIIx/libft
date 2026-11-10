@@ -6,7 +6,7 @@
 /*   By: nippolit <nippolit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/29 15:51:12 by nippolit          #+#    #+#             */
-/*   Updated: 2024/09/06 15:39:48 by nippolit         ###   ########.fr       */
+/*   Updated: 2026/11/10 17:16:06 by nippolit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -69,4 +69,3 @@ char	**ft_split(char const *s, char c)
 	}
 	return (tab);
 }
-//diviser une chaîne fonction d'un délimiteur spécifié

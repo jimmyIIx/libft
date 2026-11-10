@@ -6,7 +6,7 @@
 /*   By: nippolit <nippolit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/22 13:28:10 by nippolit          #+#    #+#             */
-/*   Updated: 2024/05/13 16:42:41 by nippolit         ###   ########.fr       */
+/*   Updated: 2026/11/10 17:16:32 by nippolit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -30,10 +30,3 @@ size_t	ft_strlcpy(char *dest, const char *src, size_t size)
 	}
 	return (ft_strlen(src));
 }
-// La fonction renvoie la longueur de la chaîne source
-/*
- trois arguments : 
-                   - un pointeur vers destination (*dst), 
-				   - un pointeur vers la source (*src),
-				   - le nombre d'octets à remplir (size).
-*/

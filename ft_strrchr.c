@@ -6,7 +6,7 @@
 /*   By: nippolit <nippolit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/22 13:27:53 by nippolit          #+#    #+#             */
-/*   Updated: 2024/05/13 16:43:43 by nippolit         ###   ########.fr       */
+/*   Updated: 2026/11/10 17:16:56 by nippolit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,4 +27,3 @@ char	*ft_strrchr(const char *s, int c)
 	}
 	return (NULL);
 }
-// Rechercher la dermiere occurrence d'un caractère dans une chaine

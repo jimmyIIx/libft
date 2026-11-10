@@ -6,7 +6,7 @@
 /*   By: nippolit <nippolit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/07 19:19:03 by nippolit          #+#    #+#             */
-/*   Updated: 2024/05/13 13:05:22 by nippolit         ###   ########.fr       */
+/*   Updated: 2026/11/10 17:14:42 by nippolit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,4 +24,3 @@ void	ft_lstadd_back(t_list **lst, t_list *new)
 	else
 		*lst = new;
 }
-// Ajoute l’élément ’new’ a la fin de la liste

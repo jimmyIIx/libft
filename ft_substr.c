@@ -6,7 +6,7 @@
 /*   By: nippolit <nippolit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/29 12:27:43 by nippolit          #+#    #+#             */
-/*   Updated: 2024/05/13 16:46:58 by nippolit         ###   ########.fr       */
+/*   Updated: 2026/11/10 17:17:09 by nippolit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -37,4 +37,3 @@ char	*ft_substr(const char *s, unsigned int start, size_t len)
 	res[j] = '\0';
 	return (res);
 }
-// Renvoie une sous-chaîne indiquée d'une chaîne de caractères.
